@@ -1,0 +1,18 @@
+.container {
+  background-size: cover;
+  background-color: aliceblue;
+  height: 100vh;
+  text-align: center;
+}
+
+.table {
+  background-color: blueviolet;
+  width: 200px;
+  padding: 20px;
+}
+
+.heading {
+  color: chartreuse;
+  width: 200px;
+  padding: 20px;
+}
